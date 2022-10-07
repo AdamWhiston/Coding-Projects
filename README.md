@@ -5,7 +5,7 @@ Coding Projects I have done and are working on!
 
 - <b>Coming Soon! (Learning Now!)</b>
 6
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Java](Insert Link Here)
 7
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 8
