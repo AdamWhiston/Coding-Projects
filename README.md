@@ -4,7 +4,7 @@ Coding Projects I have done and are working on!
 <h2>👨‍💻 Coding/Programming Work/Projects:</h2>
 
 - <b>Coming Soon! (Learning Now!)</b>
-6
+
   - [Java](Insert Link Here)
 7
 - <b>Coming Soon! (Learning Now!)</b>
