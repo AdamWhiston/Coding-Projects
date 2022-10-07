@@ -3,7 +3,7 @@ Coding Projects I have done and are working on!
 
 <h2>👨‍💻 Coding/Programming Work/Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Coming Soon! (Learning Now!)</b>
 6
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 7
