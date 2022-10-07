@@ -1,7 +1,7 @@
 # Coding-Projects
 Coding Projects I have done and are working on!
 
-<h2>👨‍💻 Ethical Hacking Projects:</h2>
+<h2>👨‍💻 Coding/Programming Work/Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 6
