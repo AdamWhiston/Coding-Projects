@@ -7,9 +7,9 @@ Coding Projects I have done and are working on!
 6
   - [Java](Insert Link Here)
 7
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Coming Soon! (Learning Now!)</b>
 8
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Python](Insert Link Here) <b><i>(Potentially NSFW)</b></i>
 9
 - <b>PowerShell</b>
 10
