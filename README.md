@@ -9,7 +9,7 @@ Coding Projects I have done and are working on!
 
 - <b>Coming Soon! (Learning Now!)</b>
 
-  - [Python](Insert Link Here) <b><i>(Potentially NSFW)</b></i>
+  - [Python](Insert Link Here) 
 
 - <b>PowerShell</b>
 
